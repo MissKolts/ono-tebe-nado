@@ -1,1 +1,1 @@
-https://github.com/MissKolts/ono-tebe-nado
+https://github.com/MissKolts/ono-tebe-nado-ad
