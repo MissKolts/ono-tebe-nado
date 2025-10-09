@@ -276,7 +276,6 @@ main {
     height: 240px;
     border-radius: 50%;
     background-color: #000000;
-    margin-top: 35px;
     margin-left: 47px;
 }
 
@@ -285,7 +284,7 @@ main {
 }
 
 .about__title {
-    padding: 136px 0 103px;
+    padding: 101px 0 103px;
     font-weight: bold;
     font-size: 40px;
     line-height: 1;
